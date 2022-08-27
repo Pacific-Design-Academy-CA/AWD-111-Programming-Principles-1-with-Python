@@ -1,0 +1,7 @@
+programming
+paradigms
+including
+object-oriented
+imperative and
+functional
+programming
