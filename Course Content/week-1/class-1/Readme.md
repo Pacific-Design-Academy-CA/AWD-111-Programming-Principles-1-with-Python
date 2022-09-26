@@ -12,6 +12,7 @@
 
 
 ## 📖 Setup & Hello World
+Alternate : https://www.programiz.com/python-programming/online-compiler/
 
 In this section we will install and setup our environments. Please follow the below steps carefully,
 
