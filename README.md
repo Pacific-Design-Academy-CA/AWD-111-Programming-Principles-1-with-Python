@@ -12,9 +12,3 @@ In this course all the following contents are covered,
 + Loops
 + Functions
 + File I/O
-
-## Learning resources 
-
-__Course Content__: Please refer to the course contents (link)
-
-Additional contents will be updated later 
