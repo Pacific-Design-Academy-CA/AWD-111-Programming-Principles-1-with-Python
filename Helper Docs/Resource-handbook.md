@@ -17,7 +17,11 @@ This resource handbook will contain links to the resources which will be used du
 # Videos
 * Learn Python full course: https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org
 * The New Boston for short python tutorials: https://youtu.be/HBxCHonP6Ro
+* Learn Git & Github: https://youtu.be/SWYqp7iY_Tc
+* Install VSCode & Python: https://www.youtube.com/watch?v=cUAK4x_7thA&ab_channel=HarsivoEdu
 
+# Python official docs:
+* https://docs.python.org/3/
 
 ## DOWNLOAD PYTHON 3: https://www.python.org/downloads/
 
