@@ -17,7 +17,7 @@
 #### Who was Python's "BENEVOLENT DICTATOR FOR LIFE": https://en.wikipedia.org/wiki/Guido_van_Rossum
 
 ## Lecture resources:
-* Resource handbook:
+* Resource handbook: https://github.com/Pacific-Design-Academy-CA/AWD-111-Programming-Principles-1-with-Python/blob/main/Helper%20Docs/Resource-handbook.md
 * Python Syntax and Rules: https://www.javaexercise.com/python/python-basic-syntax
 * Keywords & Identifiers: https://www.programiz.com/python-programming/keywords-identifier
 * Statements & Comments: https://www.programiz.com/python-programming/statement-indentation-comments
