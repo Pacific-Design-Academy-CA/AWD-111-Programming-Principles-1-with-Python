@@ -13,6 +13,7 @@ This resource handbook will contain links to the resources which will be used du
 * Programiz: https://www.programiz.com/python-programming
 * Geeks for geeks: https://www.geeksforgeeks.org/python-programming-language/
 * Tutorials Point : https://www.tutorialspoint.com/python
+* W3Schools : https://www.w3schools.com
 
 # Videos
 * Learn Python full course: https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org
