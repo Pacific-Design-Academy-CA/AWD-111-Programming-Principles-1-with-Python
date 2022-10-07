@@ -40,10 +40,13 @@ Students are responsible for completing all the functions available in __a1p1.py
 - Quick Start guide
     - download this folder and open it in VScode
     - In the home directory with the files __a1p1.py__ and __a1p2.py__ run:
-        - python -m unittest discover --pattern=*.py
+        - Automated Tests: For **windows & linux** only,
+            - **python3 -m unittest discover --pattern=*.py***
+        - Manual Tests: For **MacOS** users,
+            - **python3 helloWorld.py** && **python3 a1p2.py**
 ## Grading
-Grading will be updated later
+15% of the final grade, each function is worth at least 1% or more
 
 ## Submission instructions
 
-Submit your responses using the form at this link: link
+Change your your folder name from "Assignment 1" to "Assignment 1 Last-Name First-Name" and upload the folder on Microsoft Teams, Go to Teams -> AWD Programming Principles 1 -> Assignments -> Assignment 1
