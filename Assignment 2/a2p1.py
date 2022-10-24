@@ -67,4 +67,5 @@ def stringManipulationOne(string):
 
 
 if __name__ == '__main__':
+    checkIfNumberEvenOrOdd(4)
     pass
