@@ -67,5 +67,31 @@ def stringManipulationOne(string):
 
 
 if __name__ == '__main__':
-    checkIfNumberEvenOrOdd(4)
-    pass
+    print("\nTest case for checkLegalVotingAge(age):\n\n case 1: 19\n case 2: 14\n")
+    checkLegalVotingAge(19)
+    checkLegalVotingAge(14)
+    print("\nTest case for checkIfNumberEvenOrOdd(number):\n\n case 1: 222\n case 2: -123\n case 3: 45\n")
+    checkIfNumberEvenOrOdd(222)
+    checkIfNumberEvenOrOdd(-123)
+    checkIfNumberEvenOrOdd(45)
+    print("\nTest case for checkIfDivisible(numOne, numTwo, numThree):\n\n case 1:: 5;4;20\n case 2: 11;13;143\n case 3: -9;8;33\n")
+    checkIfDivisible(5,4,20)
+    checkIfDivisible(11,13,143)
+    checkIfDivisible(-9,8,33)
+    print("\nTest case for gradeCalculator(score):\n\n case 1: 0.6\n case 2: 0.92\n case 3: .76\n")
+    gradeCalculator(0.6)
+    gradeCalculator(0.92)
+    gradeCalculator(0.76)
+    print("\nTest case for checkLeapYear(year):\n\n case 1: 2004\n case 2: 2012\n case 3: 1223\n case 4: 1982\n")
+    checkLeapYear(2004)
+    checkLeapYear(2012)
+    checkLeapYear(1223)
+    checkLeapYear(1982)
+    print("\nTest case for checkSubStringInString(string, subString):\n\n case 1: manchester;chest\n case 2: pomodoro;tomato\n case 3: jamesbond;bon\n")
+    checkSubString("manchester","chest")
+    checkSubString("pomodoro","tomato")
+    checkSubString("jamesbond","bon")
+
+    print("\nTest case for checkStringManipulationOne(string):\n\n case 1: LebronJames\n case 2: JustinTrudeau\n")
+    stringManipulationOne("LebronJames") 
+    stringManipulationOne("JustinTrudeau")
