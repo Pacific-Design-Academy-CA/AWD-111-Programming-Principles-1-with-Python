@@ -40,4 +40,20 @@ def calculateDigitsAndLettersInString(string):
 
 
 if __name__ == '__main__':
-    pass  
+    
+    print("Test case for printMultipleLines(word, lines):\n\n case 1: Python;5\n case 2: Loops;6\n case 3: while;-3\n")
+    printMultipleLines("Python",5)
+    printMultipleLines("Loops",6)
+    printMultipleLines("while",-3)
+
+    print("\nTest case for printAllNumberNotDivisible(number, range):\n\n case 1: 3;12\n case 2: 2;10\n case 3: 9;45\n")
+    printAllNumberNotDivisible(3,9,13)
+    printAllNumberNotDivisible(2,1,10)
+    printAllNumberNotDivisible(9,-45, 21)
+
+    print("\nTest case for calculateDigitsAndLettersInString(string):\n\n case 1: darne23ll1\n case 2: chri5top6he3\n case 3: jun10r\n")
+    calculateDigitsAndLettersInString("darne23ll1")
+    calculateDigitsAndLettersInString("chri5top6he3")
+    calculateDigitsAndLettersInString("jun10r")
+
+    
