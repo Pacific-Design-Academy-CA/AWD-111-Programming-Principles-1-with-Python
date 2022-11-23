@@ -21,25 +21,22 @@ Additional contents will be updated later
 ## Test Cases
 The following are the unit tests that are available in assignment 3. Each individual unit case might contain one or more test cases.
 
-Students are responsible for completing all the functions available in __a4p1.py__ and __a4p2.py__. 
+Students are responsible for completing all the functions available in __a4p1.py__
 
 - Unit Tests
-    - divisibleElementsDict()
-    - groupSimilarItemsFromList()
-    - removeDuplicate()
-    - maxKeyInDict()
-    - meanDict()
-    - printNlinesFromFile()
-    - storeNlinesFromFile()
-    - findLongestWordFromFile()
+    - dataExtraction(filename)
+    - dataPrinting(list_dicts)
+    - longestStundentName(list_dicts)
+    - calculateHighestSessionalGPA(list_dicts)
+
 
 - Quick Start guide
     - download this folder and open it in VScode
-    - In the home directory with the files __a4p1.py__ and __a4p2.py__ run:
-        - python -m unittest discover --pattern=*.py
+    - In the home directory with the files __a4p1.py__ :
+        - python3 a4p1.py
         
 ## Grading
-Grading will be updated later
+10 points
 
 ## Submission instructions
 
