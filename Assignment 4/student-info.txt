@@ -1,0 +1,11 @@
+name;age;school;grades(maths-physics-chemistry-english)
+jess;27;PDA;78-82-65-55
+mindy;22;PDA;80-55-75-77
+tim;19;PDA;85-88-87-89
+lavar;23;PDA;75-77-78-81
+kira;28;PDA;67-68-71-64
+mindy;22;PDA;77-75-87-65
+rahim;29;PDA;65-78-78-82
+xi;23;PDA;77-78-91-82
+lima;27;PDA;81-82-83-87
+maurizio;29;PDA;75-77-88-78
