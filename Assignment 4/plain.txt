@@ -1,8 +1,0 @@
-What is
-Python
-language?
-Python
-general-purpose
-interpreted
-dynamic
-design
